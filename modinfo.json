@@ -1,0 +1,16 @@
+{
+  "type": "code",
+  "modid": "hudclockserveredition",
+  "name": "HUD Clock (Server Edition)",
+  "authors": [ "Elocrypt" ],
+  "contributors": [ "Jumboking3" ],
+  "description": "Server-installable build of Elocrypt's HUD Clock. Players get the HUD automatically when joining. Original mod: https://mods.vintagestory.at/hudclock",
+  "version": "4.4.2",
+  "side": "Universal",
+  "requiredOnClient": true,
+  "requiredOnServer": false,
+  "dependencies": {
+    "game": "1.22.0"
+  },
+  "website": "https://mods.vintagestory.at/hudclock"
+}
